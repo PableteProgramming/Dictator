@@ -1,0 +1,9 @@
+/bin/
+*.user
+*.pfx
+/obj/
+/publish/
+*.swp
+.vs/
+*.un~
+*.*~
